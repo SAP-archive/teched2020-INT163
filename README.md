@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# INT163 - RPA for Ariba Network: Build Your Own Bot Around Ariba Network
 
 ## Description
 
