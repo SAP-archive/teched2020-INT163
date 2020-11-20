@@ -2,15 +2,15 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called Session ID - Session Title. 
+This repository contains the material for the SAP TechEd 2020 session called INT163- RPA for Ariba Network: Build Your Own Bot Around Ariba Network. 
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to learn how to automate Ariba application using SAP Intelligent RPA. In this workshop participants will create a bot to automate Ariba Purchase Order flip process that helps sellers to converts Purchanse order to Invoice.
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+The requirements to follow the exercises in this repository are described in the document [here](https://github.com/SAP-samples/teched2020-INT163/blob/main/prerequisites/%5B163%5D%20RPA%20for%20Ariba%20Network%20Build%20Your%20Own%20Bot%20Around%20Ariba%20Network-Prerequisite.pdf)
 
 ## Exercises
 
