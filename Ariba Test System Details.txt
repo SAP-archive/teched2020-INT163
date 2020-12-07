@@ -1,0 +1,6 @@
+URL : http://supplier.ariba.com 
+
+User Name : INT163USER0xx@sap.com
+Password : Ariba@INT163
+
+[Note : Replace "xx" in User Name with number 00-49. Example INT163USER001@sap.com]
