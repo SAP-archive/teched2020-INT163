@@ -2,40 +2,22 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called Session ID - Session Title. 
+This repository contains the material for the SAP TechEd 2020 session called INT163- RPA for Ariba Network: Build Your Own Bot Around Ariba Network. 
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees about automation of Ariba application using SAP Intelligent RPA. In this workshop participants will create a bot to automate Ariba Purchase Order flip process that helps sellers to converts Purchanse order to Invoice.
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+The requirements to follow the exercises in this repository are described in the document [here](https://github.com/SAP-samples/teched2020-INT163/blob/main/prerequisites/%5B163%5D%20RPA%20for%20Ariba%20Network%20Build%20Your%20Own%20Bot%20Around%20Ariba%20Network-Prerequisite.pdf)
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+The exercises of this session are:
 
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
-
-**OR** Link to the PDF document stored in your github repo for example...
-
-Start the exercises [here](exercises/myPDFDoc.pdf).
-    
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+- [Onboarding to SAP Intelligent RPA](https://github.com/SAP-samples/teched2020-INT163/blob/main/onboarding/%5BINT163%5D%20RPA%20for%20Ariba%20Network%20Build%20Your%20Own%20Bot%20Around%20Ariba%20Networke_Tenant%20Onboarding.pdf) : If you already have   access to a SAP Intelligent RPA tenant and SAP Intelligent RPA is installed in your system then you can move to next exercise.
+- [Automate Ariba Application using SAP Intelligent RPA](https://github.com/SAP-samples/teched2020-INT163/blob/main/exercises/%5BINT163%5D%20RPA%20for%20Ariba%20Network%20Build%20Your%20Own%20Bot%20Around%20Ariba%20Network.pdf)
 
 ## How to obtain support
 
