@@ -18,6 +18,7 @@ The exercises of this session are:
 
 - [Onboarding to SAP Intelligent RPA](https://github.com/SAP-samples/teched2020-INT163/blob/main/onboarding/%5BINT163%5D%20RPA%20for%20Ariba%20Network%20Build%20Your%20Own%20Bot%20Around%20Ariba%20Networke_Tenant%20Onboarding.pdf) : If you already have   access to a SAP Intelligent RPA tenant and SAP Intelligent RPA is installed in your system then you can move to next exercise.
 - [Automate Ariba Application using SAP Intelligent RPA](https://github.com/SAP-samples/teched2020-INT163/blob/main/exercises/%5BINT163%5D%20RPA%20for%20Ariba%20Network%20Build%20Your%20Own%20Bot%20Around%20Ariba%20Network.pdf)
+- Refer to Ariba Test System Details.txt for system details.
 
 ## How to obtain support
 
