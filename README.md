@@ -1,5 +1,7 @@
 # INT163 - RPA for Ariba Network: Build Your Own Bot Around Ariba Network
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2020-INT163)](https://api.reuse.software/info/github.com/SAP-samples/teched2020-INT163)
+
 ## Description
 
 This repository contains the material for the SAP TechEd 2020 session called INT163- RPA for Ariba Network: Build Your Own Bot Around Ariba Network. 
